@@ -1,0 +1,20 @@
+.header {
+    background-color: #BB86FC;
+}
+
+.header-casa {
+    background-color: #00C4B4;
+}
+
+table {
+    border: solid 2px #424250;
+    width: 400px;
+    height: 100px;
+    text-align: center;
+}
+
+td {
+    padding: 12px;
+    background-color: #424250;
+    color: aliceblue;
+}
